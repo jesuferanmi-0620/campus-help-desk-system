@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # campus_help_desk_system
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# campus-help-desk-system
+>>>>>>> 831c440e058b8f1464a77167228d4cb92b61e894
